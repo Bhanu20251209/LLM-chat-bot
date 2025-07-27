@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+dotenv
+faiss-cpu
+pytesseract
+mangum
+sentence_transformers
